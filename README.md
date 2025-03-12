@@ -16,7 +16,7 @@ Ensure you have Python 3 installed along with the required libraries:
 Running the Program
 Clone this repository:
 
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Invoker011/Expense_Tracker.git
 Navigate to the project folder:
 
 cd expense-tracker
